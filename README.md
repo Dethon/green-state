@@ -2,7 +2,7 @@
 
 A single-file Windows tray app that keeps your Microsoft Teams status green.
 
-It sits in the system tray as a little energy-drink can. While enabled it blocks sleep and
+It sits in the system tray as a little energy-drink can with a gem in the corner. While enabled it blocks sleep and
 display-off, and whenever you have been idle for a minute it injects input nothing reacts to
 (a one-pixel mouse move and back, plus an F15 key release) so Windows never reports you as idle.
 Nothing is injected while you are actually using the machine.
